@@ -1,11 +1,11 @@
 {
-  "name": "portfolio-mac",
+  "name": "portfoliodanielle/two",
   "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "portfolio-mac",
+      "name": "portfoliodanielle/two",
       "version": "0.1.0",
       "dependencies": {
         "core-js": "^3.20.2",
