@@ -2,9 +2,7 @@
     <h2>My Briefcase</h2>
     <div class="inner-content">
       <h3 class="heading">
-        <a href="https://github.com/DonChiaQE/vuejs-os-template"
-          >This briefcase is empty... ha.</a
-        >
+          >This briefcase is empty... ha.
       </h3>
       <p class="paragraph">
         There may be something in here at a later date, who knows. 
