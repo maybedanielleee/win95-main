@@ -98,11 +98,11 @@
             <hr />
             <div class="subject-container">
               <p style="margin: 8px">To:</p>
-              <div class="receipient">Don</div>
+              <div class="receipient">maybeDanielleee</div>
             </div>
             <hr />
             <div class="subject-container">
-              <p style="margin: 8px">Subject:</p>
+              <p style="margin: 8px">Very Interesting Subject:</p>
               <input
                 name="entry.609946071"
                 class="subject"

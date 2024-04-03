@@ -6,39 +6,17 @@
         <div class="icon-text">Biography</div>
       </div>
     </button>
-    <button class="app" v-touch:tap="openResume" v-on:dblclick="openResume">
-      <!-- <a href="/files/don_chia_resume.pdf" target="_blank"> -->
-      <img class="icon app-github" src="../assets/iPhone-Icons/resume.png" />
-      <div class="border">
-        <div class="icon-text">Résumé</div>
-      </div>
-      <!-- </a>  -->
-    </button>
     <button class="app" v-touch:tap="openPhotos" v-on:dblclick="openPhotos">
       <img class="icon app-photos" src="../assets/win95Icons/photos.png" />
       <div class="border">
         <div class="icon-text">Photos</div>
       </div>
     </button>
-    <button class="app" v-touch:tap="openNoss" v-on:dblclick="openNoss">
-      <img class="icon app-noss" src="../assets/win95Icons/noss.webp" />
-      <div class="border">
-        <div class="icon-text">NOSSAFLEX</div>
-      </div>
-    </button>
     <button class="app" v-touch:tap="openMail" v-on:dblclick="openMail">
       <img class="icon app-mail" src="../assets/win95Icons/mail.png" />
       <div class="border">
-        <div class="icon-text">Mail</div>
+        <div class="icon-text">Electronic Mail</div>
       </div>
-    </button>
-    <button class="app">
-      <a href="https://github.com/dhs17y2adonchia" target="_blank">
-        <img class="icon app-github" src="../assets/win95Icons/Github.webp" />
-        <div class="border">
-          <div class="icon-text">GitHub</div>
-        </div>
-      </a>
     </button>
   </div>
 </template>

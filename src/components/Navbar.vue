@@ -41,21 +41,6 @@
         </div>
 
         <div
-          alt="NOSSAFLEX"
-          class="icon-nossaflex"
-          v-on:click="showNossaflex"
-          :class="[
-            $store.getters.activeWindow == 'NOSSAFLEX'
-              ? 'icon-depressed'
-              : 'icon',
-            $store.getters.isCloseNossaflex ? '' : 'hidden',
-          ]"
-        >
-          <img class="icon-image" src="../assets/win95Icons/noss.webp" />
-          NOSSAFLEX
-        </div>
-
-        <div
           alt="Photos"
           class="icon-photo"
           v-on:click="showPhotos"

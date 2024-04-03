@@ -51,8 +51,8 @@
               src="../assets/warning.png"
             />
             <div>
-              You are on a mobile device. The PDF cannot be scrolled, open the
-              PDF in a separate tab by tapping on ok.
+              ERROR: It seems you are using a mobile device. This particular PDF cannot be scrolled. Please open the
+              PDF in a separate tab by tapping OK.
             </div>
           </div>
           <div class="row" style="margin-bottom: 30px; width: 100%">
